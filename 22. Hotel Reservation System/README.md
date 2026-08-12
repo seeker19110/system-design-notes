@@ -462,3 +462,11 @@ These are the steps we went through:
  - We discussed race conditions and proposed solutions - pessimistic/optimistic locking, database constraints
  - Ways to scale the system via database sharding and caching
  - Finally we addressed how to handle data consistency issues across multiple microservices
+
+---
+
+<div align="center">
+<a href="../21. Ad Click Event Aggregation/Readme.md">&lt;&lt; Previous Page</a> | <a href="../23. Distributed Email Service/Readme.md">Next Page &gt;&gt;</a>
+</div>
+
+---

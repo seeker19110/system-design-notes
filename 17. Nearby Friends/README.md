@@ -227,3 +227,11 @@ Core components:
 - **Redis**: fast read and write of location data + pub/sub channels
 
 We also explored how to scale restful api servers, websocket servers, data layer, redis pub/sub servers and we also explored an alternative to using Redis Pub/Sub. We also explored a "random nearby person" feature.
+
+---
+
+<div align="center">
+<a href="../16. Proximity Service/Readme.md">&lt;&lt; Previous Page</a> | <a href="../18. Google Maps/Readme.md">Next Page &gt;&gt;</a>
+</div>
+
+---

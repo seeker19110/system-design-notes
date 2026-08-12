@@ -547,3 +547,11 @@ It would be easier to understand and design it if you have prior knowledge of re
  - Apache Kafka
  - Apache Spark
  - Apache Flink
+
+---
+
+<div align="center">
+<a href="../20. Metrics Monitoring and Alerting System/Readme.md">&lt;&lt; Previous Page</a> | <a href="../22. Hotel Reservation System/Readme.md">Next Page &gt;&gt;</a>
+</div>
+
+---

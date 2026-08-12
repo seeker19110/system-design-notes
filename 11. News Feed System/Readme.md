@@ -129,3 +129,11 @@ The cache is divided into five layers:
 ### Monitoring
 1. Track key metrics like QPS (queries per second) and latency.
 2. Monitor cache hit rates and adjust configurations accordingly.
+
+---
+
+<div align="center">
+<a href="../10. Notification System/Readme.md">&lt;&lt; Previous Page</a> | <a href="../12. Chat System/Readme.md">Next Page &gt;&gt;</a>
+</div>
+
+---
